@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+	<listeners>
+		<listener class-name="com.demoapp.testauto.listeners.TestCaseListener" />
+	</listeners>
+	<test name="Regression Test">
+		<parameter name="browser" value="chrome" />
+		<parameter name="env" value="DEV" />
+		<groups>
+			<define name="all">
+				<include name="functionaltest" />
+				<include name="regressiontest" />
+				<include name="smoketest" />
+			</define>
+			<run>
+				<include name="functionaltest"></include>
+			</run>
+		</groups>
+		<packages>
+			<package name="com.demoapp.testautomation.scripts" />
+		</packages>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

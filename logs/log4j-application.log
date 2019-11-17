@@ -1,0 +1,102 @@
+2019-11-17 11:26:03 INFO  LoginPageModel:36 - username entered : user1@nz.com
+2019-11-17 11:26:03 INFO  LoginPageModel:38 - password entered : 12345
+2019-11-17 11:26:05 INFO  LoginPageModel:40 - login button clicked
+2019-11-17 11:26:05 INFO  TestCaseListener:33 - [TestClass name=class com.demoapp.testautomation.scripts.LandingPage]
+2019-11-17 11:26:05 INFO  TestCaseListener:34 - Test Method name: verifyAboutUs
+2019-11-17 11:26:05 INFO  TestCaseListener:35 - Test Started.....
+2019-11-17 11:26:05 INFO  LandingPageModel:58 - About Us link clicked
+2019-11-17 11:26:05 INFO  AboutUsModel:32 - AboutUs page displayed
+2019-11-17 11:26:05 INFO  TestCaseListener:41 - Test 'verifyAboutUs' PASSED
+2019-11-17 11:26:05 INFO  TestCaseListener:68 - class com.demoapp.testautomation.scripts.LandingPage
+2019-11-17 11:26:07 INFO  TestCaseListener:94 - Passed:1 Failed:0 Skipped:0 Total:1
+2019-11-17 11:26:20 INFO  LoginPageModel:36 - username entered : user1@nz.com
+2019-11-17 11:26:20 INFO  LoginPageModel:38 - password entered : 12345
+2019-11-17 11:26:22 INFO  LoginPageModel:40 - login button clicked
+2019-11-17 11:26:22 INFO  TestCaseListener:33 - [TestClass name=class com.demoapp.testautomation.scripts.LandingPage]
+2019-11-17 11:26:22 INFO  TestCaseListener:34 - Test Method name: verifyContactUs
+2019-11-17 11:26:22 INFO  TestCaseListener:35 - Test Started.....
+2019-11-17 11:26:27 INFO  LandingPageModel:65 - Contact Us link clicked
+2019-11-17 11:26:27 INFO  ContactUsModel:50 - Entered your name: NtloJtKZLmsHhsG
+2019-11-17 11:26:27 INFO  ContactUsModel:57 - Your email address entered : test1@gmail.com
+2019-11-17 11:26:28 INFO  ContactUsModel:65 - Your subject entered: lgfLBmKjNW
+2019-11-17 11:26:28 INFO  ContactUsModel:73 - Your message entered: CWRmtYzkfLOtrachzDiMTDxwYdBPnD
+2019-11-17 11:26:33 INFO  ContactUsModel:79 - Send message button clicked
+2019-11-17 11:26:33 INFO  ContactUsModel:87 - Successfully your message details submitted
+2019-11-17 11:26:33 INFO  TestCaseListener:41 - Test 'verifyContactUs' PASSED
+2019-11-17 11:26:33 INFO  TestCaseListener:68 - class com.demoapp.testautomation.scripts.LandingPage
+2019-11-17 11:26:34 INFO  TestCaseListener:94 - Passed:2 Failed:0 Skipped:0 Total:2
+2019-11-17 11:26:45 INFO  LoginPageModel:36 - username entered : user1@nz.com
+2019-11-17 11:26:45 INFO  LoginPageModel:38 - password entered : 12345
+2019-11-17 11:26:46 INFO  LoginPageModel:40 - login button clicked
+2019-11-17 11:26:46 INFO  TestCaseListener:33 - [TestClass name=class com.demoapp.testautomation.scripts.LandingPage]
+2019-11-17 11:26:46 INFO  TestCaseListener:34 - Test Method name: verifyCustomerUpdateDetails
+2019-11-17 11:26:46 INFO  TestCaseListener:35 - Test Started.....
+2019-11-17 11:26:51 INFO  LandingPageModel:51 - update customer information link clicked
+2019-11-17 11:26:52 INFO  CustomerModel:54 - Customer name entered : fapAPWyUqCUa
+2019-11-17 11:26:52 INFO  CustomerModel:62 - Customer customer address : yXMStVhsjySWtKWqIdGk
+2019-11-17 11:26:52 INFO  CustomerModel:69 - Customer customer email address entered  : test1@gmail.com
+2019-11-17 11:26:52 INFO  CustomerModel:76 - Customer DOB entered : 17/17/2017
+2019-11-17 11:26:57 INFO  CustomerModel:82 - Submit button clicked
+2019-11-17 11:26:57 INFO  CustomerModel:90 - Successfully customer details submitted
+2019-11-17 11:26:57 INFO  TestCaseListener:41 - Test 'verifyCustomerUpdateDetails' PASSED
+2019-11-17 11:26:57 INFO  TestCaseListener:68 - class com.demoapp.testautomation.scripts.LandingPage
+2019-11-17 11:26:58 INFO  TestCaseListener:94 - Passed:3 Failed:0 Skipped:0 Total:3
+2019-11-17 11:27:08 INFO  LoginPageModel:36 - username entered : user1@nz.com
+2019-11-17 11:27:09 INFO  LoginPageModel:38 - password entered : 12345
+2019-11-17 11:27:10 INFO  LoginPageModel:40 - login button clicked
+2019-11-17 11:27:10 INFO  TestCaseListener:33 - [TestClass name=class com.demoapp.testautomation.scripts.LandingPage]
+2019-11-17 11:27:10 INFO  TestCaseListener:34 - Test Method name: verifyHomePage
+2019-11-17 11:27:10 INFO  TestCaseListener:35 - Test Started.....
+2019-11-17 11:27:10 INFO  LandingPageModel:44 - Landing page displayed
+2019-11-17 11:27:10 INFO  TestCaseListener:41 - Test 'verifyHomePage' PASSED
+2019-11-17 11:27:10 INFO  TestCaseListener:68 - class com.demoapp.testautomation.scripts.LandingPage
+2019-11-17 11:27:11 INFO  TestCaseListener:94 - Passed:4 Failed:0 Skipped:0 Total:4
+2019-11-17 11:28:49 INFO  LoginPageModel:36 - username entered : user1@nz.com
+2019-11-17 11:28:49 INFO  LoginPageModel:38 - password entered : 12345
+2019-11-17 11:28:51 INFO  LoginPageModel:40 - login button clicked
+2019-11-17 11:28:51 INFO  TestCaseListener:34 - Test Method name: verifyAboutUs
+2019-11-17 11:28:51 INFO  TestCaseListener:35 - Test Started.....
+2019-11-17 11:28:52 INFO  LandingPageModel:58 - About Us link clicked
+2019-11-17 11:28:52 INFO  AboutUsModel:32 - AboutUs page displayed
+2019-11-17 11:28:52 INFO  TestCaseListener:41 - Test 'verifyAboutUs' PASSED
+2019-11-17 11:28:52 INFO  TestCaseListener:68 - class com.demoapp.testautomation.scripts.LandingPage
+2019-11-17 11:28:53 INFO  TestCaseListener:94 - Passed:1 Failed:0 Skipped:0 Total:1
+2019-11-17 11:29:04 INFO  LoginPageModel:36 - username entered : user1@nz.com
+2019-11-17 11:29:04 INFO  LoginPageModel:38 - password entered : 12345
+2019-11-17 11:29:06 INFO  LoginPageModel:40 - login button clicked
+2019-11-17 11:29:06 INFO  TestCaseListener:34 - Test Method name: verifyContactUs
+2019-11-17 11:29:06 INFO  TestCaseListener:35 - Test Started.....
+2019-11-17 11:29:06 INFO  LandingPageModel:65 - Contact Us link clicked
+2019-11-17 11:29:06 INFO  ContactUsModel:50 - Entered your name: DOaEuHargLMlfET
+2019-11-17 11:29:07 INFO  ContactUsModel:57 - Your email address entered : test1@gmail.com
+2019-11-17 11:29:07 INFO  ContactUsModel:65 - Your subject entered: bOxoeWihEI
+2019-11-17 11:29:07 INFO  ContactUsModel:73 - Your message entered: DVkiTVJEGCaYueCWxNyFYKhELxkDSG
+2019-11-17 11:29:07 INFO  ContactUsModel:79 - Send message button clicked
+2019-11-17 11:29:08 INFO  ContactUsModel:87 - Successfully your message details submitted
+2019-11-17 11:29:08 INFO  TestCaseListener:41 - Test 'verifyContactUs' PASSED
+2019-11-17 11:29:08 INFO  TestCaseListener:68 - class com.demoapp.testautomation.scripts.LandingPage
+2019-11-17 11:29:08 INFO  TestCaseListener:94 - Passed:2 Failed:0 Skipped:0 Total:2
+2019-11-17 11:29:19 INFO  LoginPageModel:36 - username entered : user1@nz.com
+2019-11-17 11:29:19 INFO  LoginPageModel:38 - password entered : 12345
+2019-11-17 11:29:20 INFO  LoginPageModel:40 - login button clicked
+2019-11-17 11:29:20 INFO  TestCaseListener:34 - Test Method name: verifyCustomerUpdateDetails
+2019-11-17 11:29:20 INFO  TestCaseListener:35 - Test Started.....
+2019-11-17 11:29:20 INFO  LandingPageModel:51 - update customer information link clicked
+2019-11-17 11:29:20 INFO  CustomerModel:54 - Customer name entered : uQwLnYrlgTsR
+2019-11-17 11:29:21 INFO  CustomerModel:62 - Customer customer address : PsTTTjjSohwQsXnbrWqx
+2019-11-17 11:29:21 INFO  CustomerModel:69 - Customer customer email address entered  : test1@gmail.com
+2019-11-17 11:29:21 INFO  CustomerModel:76 - Customer DOB entered : 17/17/2017
+2019-11-17 11:29:21 INFO  CustomerModel:82 - Submit button clicked
+2019-11-17 11:29:21 INFO  CustomerModel:90 - Successfully customer details submitted
+2019-11-17 11:29:21 INFO  TestCaseListener:41 - Test 'verifyCustomerUpdateDetails' PASSED
+2019-11-17 11:29:21 INFO  TestCaseListener:68 - class com.demoapp.testautomation.scripts.LandingPage
+2019-11-17 11:29:21 INFO  TestCaseListener:94 - Passed:3 Failed:0 Skipped:0 Total:3
+2019-11-17 11:29:32 INFO  LoginPageModel:36 - username entered : user1@nz.com
+2019-11-17 11:29:32 INFO  LoginPageModel:38 - password entered : 12345
+2019-11-17 11:29:33 INFO  LoginPageModel:40 - login button clicked
+2019-11-17 11:29:33 INFO  TestCaseListener:34 - Test Method name: verifyHomePage
+2019-11-17 11:29:33 INFO  TestCaseListener:35 - Test Started.....
+2019-11-17 11:29:34 INFO  LandingPageModel:44 - Landing page displayed
+2019-11-17 11:29:34 INFO  TestCaseListener:41 - Test 'verifyHomePage' PASSED
+2019-11-17 11:29:34 INFO  TestCaseListener:68 - class com.demoapp.testautomation.scripts.LandingPage
+2019-11-17 11:29:34 INFO  TestCaseListener:94 - Passed:4 Failed:0 Skipped:0 Total:4
