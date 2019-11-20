@@ -15,6 +15,10 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 import com.demoapp.testauto.exceptions.BrowserNotSupportedException;
 
+/**
+ * @author Amit
+ *
+ */
 public class TestConfig {
 
 	WebDriver driver = null;

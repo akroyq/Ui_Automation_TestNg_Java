@@ -3,6 +3,10 @@ package com.demoapp.testauto.library;
 import java.util.concurrent.ThreadLocalRandom;
 import org.apache.commons.lang3.RandomStringUtils;
 
+/**
+ * @author Amit
+ *
+ */
 public class RandomUtil {
 
 	/**

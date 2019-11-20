@@ -14,6 +14,10 @@ import org.testng.xml.XmlSuite;
 
 import com.demoapp.testauto.library.ScreenShot;
 
+/**
+ * @author Amit
+ *
+ */
 public class TestCaseListener extends TestListenerAdapter implements IReporter, ISuiteListener {
 
 	private static final String DRIVER_METHOD_NAME = "getDriver";

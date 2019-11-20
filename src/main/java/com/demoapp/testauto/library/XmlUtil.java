@@ -6,6 +6,10 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 import org.w3c.dom.Document;
 
+/**
+ * @author Amit
+ *
+ */
 public class XmlUtil {
 
 	private static DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();

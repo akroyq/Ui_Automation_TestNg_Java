@@ -9,6 +9,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.Reporter;
 
+/**
+ * @author Amit
+ *
+ */
 public class LandingPageModel {
 
 	private final WebDriver driver;

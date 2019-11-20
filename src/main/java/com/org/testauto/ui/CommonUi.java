@@ -5,10 +5,14 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 
+/**
+ * @author Amit
+ *
+ */
 public class CommonUi {
-	
+
 	public WebDriver driver;
-	
+
 	/**
 	 * Select item from a list by index value
 	 * 
@@ -131,6 +135,5 @@ public class CommonUi {
 		String data = alt.getText();
 		return data;
 	}
-
 
 }

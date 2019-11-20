@@ -1,6 +1,6 @@
 # UI-Automation-TestNG-Java
-# Objective : 
-Developed a sample framework which support to develop automation test scripts for UI. 
+# Objective: 
+Developed a sample framework which support to develop automation test scripts for functional testing.. 
 
 # Libraries used:
 1. Java
@@ -18,7 +18,21 @@ Developed a sample framework which support to develop automation test scripts fo
     - mvn test :- To execute the test scenarios
 
 
-# Note: 
+# UI application details: 
 Sample demo application created inside the project (Path - /test/resources/demo_application/Home.html)
-1. Enter any email address (valid regex) in the email field
-2. Enter any data in password field 
+1. Copy pest the path of Home.html in any browser address bar and press Enter. 
+2. Enter any email address (valid regex) in the email field.
+3. Enter any data in password field and click on Login button.
+4. Do exploratory testing with this demo app
+
+
+# Approach: 
+1. Implemented modular driven approach
+2. Implemented FileUtil, RandomUtil, Screenshot libraries   
+3. Added TestNG Listener to track logs
+4. Maintained low level and high level logs 
+5. Used page object model design pattern 
+6. Test data maintained in properties files
+7. Browser and environment are parameterized from xml suits 
+8. Maintained groups for all test scripts
+9. Used TestNG library for assertions & reporting

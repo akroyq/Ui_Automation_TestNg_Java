@@ -17,6 +17,10 @@ import com.demoapp.testautomation.pageobject.CustomerModel;
 import com.demoapp.testautomation.pageobject.LandingPageModel;
 import com.demoapp.testautomation.pageobject.LoginPageModel;
 
+/**
+ * @author Amit
+ *
+ */
 public class LandingPage {
 
 	WebDriver driver;

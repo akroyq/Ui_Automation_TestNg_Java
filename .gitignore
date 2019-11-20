@@ -2,3 +2,8 @@
 /bin/
 /test-output/
 /screenshots/
+/.classpath
+/.project
+/debug.log
+/logs/
+/.settings

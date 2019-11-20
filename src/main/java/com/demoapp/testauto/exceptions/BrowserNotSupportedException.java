@@ -1,5 +1,9 @@
 package com.demoapp.testauto.exceptions;
 
+/**
+ * @author Amit
+ *
+ */
 public class BrowserNotSupportedException extends RuntimeException {
 
 	private static final long serialVersionUID = 1L;

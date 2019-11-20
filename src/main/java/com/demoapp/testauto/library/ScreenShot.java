@@ -1,8 +1,6 @@
 package com.demoapp.testauto.library;
 
 import java.io.File;
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 import org.apache.commons.io.FileUtils;
@@ -11,6 +9,10 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.testng.Reporter;
 
+/**
+ * @author Amit
+ *
+ */
 public class ScreenShot {
 
 	private static String fileSeperator = System.getProperty("file.separator");

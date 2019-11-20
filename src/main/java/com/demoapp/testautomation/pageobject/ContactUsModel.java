@@ -12,6 +12,10 @@ import org.testng.Reporter;
 import com.demoapp.testauto.library.RandomUtil;
 import com.org.testauto.ui.CommonUi;
 
+/**
+ * @author Amit
+ *
+ */
 public class ContactUsModel {
 
 	private final WebDriver driver;
