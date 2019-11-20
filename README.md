@@ -6,7 +6,7 @@ Developed a sample framework which support to develop automation test scripts fo
 1. Java
 2. Selenium
 3. TestNG
-5. Maven
+4. Maven
 
 
 # Steps to start:
