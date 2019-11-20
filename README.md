@@ -11,10 +11,10 @@ Developed a sample framework which support to develop automation test scripts fo
 
 # Steps to start:
 1. Clone / Download the project into your local.
-2. Open the Command prompt and navigat to project location.
+2. Open the Command prompt and navigate to project location.
 3. Execute the following Maven command's
     - mvn clean :- To clean the maven repo.
-    - mvn install :- To install the maven requirments.
+    - mvn install :- To install the maven requirements.
     - mvn test :- To execute the test scenarios.
 
 
