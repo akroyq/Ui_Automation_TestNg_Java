@@ -6,8 +6,8 @@ Developed a sample framework that supports to develop automation test scripts fo
 1. Java
 2. Selenium
 3. TestNG
+4. Extentreports
 4. Maven
-
 
 # Steps to start:
 1. Clone / Download the project into your local.
@@ -28,11 +28,12 @@ Sample demo application created inside the project (Path - /test/resources/demo_
 
 # Approach: 
 1. Implemented modular driven approach.
-2. Implemented FileUtil, RandomUtil, Screenshot libraries. 
-3. Added TestNG Listener to track logs.
-4. Maintained low level and high level logs.
-5. Used page object model design pattern.
-6. Test data maintained in properties files.
-7. Browser and environment are parameterized from xml suits.
-8. Maintained groups for all test scripts.
-9. Used TestNG library for assertions & reporting.
+2. Used page object model design pattern.
+3. Maintained low level and high level logs.
+4. Implemented FileUtil, RandomUtil, Screenshot libraries. 
+5. Test data maintained in properties files.
+6. Browser and environment are parameterized from xml suits.
+7. Maintained groups for all test scripts.
+8. Used TestNG library for assertions & reporting.
+9. Added screenshots with emailable-report.
+10. Added Extentreports with screenshots.

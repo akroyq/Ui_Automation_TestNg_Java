@@ -2,7 +2,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Regression">
 	<listeners>
-		<listener class-name="com.demoapp.testauto.listeners.TestCaseListener" />
+		<listener class-name="com.demoapp.testauto.listeners.ExtentReportsListener" />
+		<listener class-name="com.demoapp.testauto.listeners.LogsTrackerListener" />
 	</listeners>
 	<test name="Regression Test">
 		<parameter name="browser" value="chrome" />

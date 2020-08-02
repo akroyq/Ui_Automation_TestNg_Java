@@ -15,13 +15,13 @@ import org.testng.Reporter;
  */
 public class ScreenShot {
 
-	private static String fileSeperator = System.getProperty("file.separator");
+	public static String fileSeperator = System.getProperty("file.separator");
 
 	public static final org.apache.log4j.Logger log = org.apache.log4j.Logger.getLogger(ScreenShot.class);
 
-	private static final String SCREENSHOT_DIRECTORY_NAME = "screenshots";
+	public static final String SCREENSHOT_DIRECTORY_NAME = "screenshots";
 
-	private static final String RESULT_DIRECTORY_NAME = "Result";
+	public static final String RESULT_DIRECTORY_NAME = "Result";
 
 	private ScreenShot() {
 	}
@@ -41,7 +41,7 @@ public class ScreenShot {
 			File dest = new File(ScreenShot.SCREENSHOT_DIRECTORY_NAME + ScreenShot.fileSeperator
 					+ ScreenShot.RESULT_DIRECTORY_NAME + ScreenShot.fileSeperator + toDay, screenShotName);
 			FileUtils.copyFile(src, dest);
-			Reporter.log("Screenshot: <a href='../" + dest.getPath() + " 'target='_blank'>View ScreenShot</a>");
+			Reporter.log("Screenshot: <a href=" + dest.getAbsolutePath() + " 'target='_blank'>View ScreenShot</a>");
 		} catch (Exception e) {
 			log.error("Exception at Screenshot:takeScreenshot() :", e);
 		}

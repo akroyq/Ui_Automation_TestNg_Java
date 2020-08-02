@@ -24,7 +24,6 @@ public class FileUtil {
 	}
 
 	public static Map<String, String> getConfigProperties(final String env) {
-
 		return readProperties(FileUtil.PROPERTY_FILE_PATH + env + ".properties");
 	}
 
@@ -54,9 +53,7 @@ public class FileUtil {
 		}
 
 		for (java.util.Map.Entry<Object, Object> entries : prop.entrySet()) {
-
 			propMap.put((String) entries.getKey(), (String) entries.getValue());
-
 		}
 		return propMap;
 	}

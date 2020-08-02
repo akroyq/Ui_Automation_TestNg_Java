@@ -10,7 +10,7 @@ import org.testng.Assert;
 import org.testng.Reporter;
 
 import com.demoapp.testauto.library.RandomUtil;
-import com.org.testauto.ui.CommonUi;
+import com.demoapp.testauto.ui.CommonUi;
 
 /**
  * @author Amit
